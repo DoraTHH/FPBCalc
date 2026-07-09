@@ -1,0 +1,1 @@
+Simple tool that, for a given BPM, prints out FPS + FPB combinations where both are integers
