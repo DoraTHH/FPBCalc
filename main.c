@@ -20,6 +20,7 @@ void calculate(int BPM) {
 
 int main(int argc, char* argv[]) {
     int BPM = atoi(argv[1]);
+    printf("%-8s %s\n", "FPB", "FPS");
     calculate(BPM);
     printf("program has finished, exiting...");
     return 0;
